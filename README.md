@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JK014
 - 👀 I’m interested in Pentesting, Development and much more!
-- 🌱 I’m currently learning C++, VUE.JS
+- 🌱 I’m currently learning Go
 - 📫 How to reach me: [:email: contact@jkweb.org](mailto://contact@jkweb.org)
 
 <!---
